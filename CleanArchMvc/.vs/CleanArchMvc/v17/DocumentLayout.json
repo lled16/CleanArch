@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.infradata\\migrations\\20240513023558_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|solutionrelative:cleanarchmvc.infradata\\migrations\\20240513023558_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75179EE2-AF47-4BBB-A9F8-5D0197A7FFB0}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75179EE2-AF47-4BBB-A9F8-5D0197A7FFB0}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.infradata\\cleanarchmvc.infradata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|solutionrelative:cleanarchmvc.infradata\\cleanarchmvc.infradata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7E1C0B2-2511-4D5D-8A09-4064E6456F53}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7E1C0B2-2511-4D5D-8A09-4064E6456F53}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.infradata\\migrations\\20240513022602_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|solutionrelative:cleanarchmvc.infradata\\migrations\\20240513022602_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +35,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240513023558_SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Migrations\\20240513023558_SeedProducts.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.InfraData\\Migrations\\20240513023558_SeedProducts.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Migrations\\20240513023558_SeedProducts.cs",
+              "RelativeToolTip": "CleanArchMvc.InfraData\\Migrations\\20240513023558_SeedProducts.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:35:58.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240513022602_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Migrations\\20240513022602_Initial.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.InfraData\\Migrations\\20240513022602_Initial.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Migrations\\20240513022602_Initial.cs",
+              "RelativeToolTip": "CleanArchMvc.InfraData\\Migrations\\20240513022602_Initial.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:26:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CleanArchMvc.InfraData.csproj",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+              "RelativeDocumentMoniker": "CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+              "RelativeToolTip": "CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T02:25:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\appsettings.json",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\appsettings.json",
               "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\appsettings.json",
               "RelativeToolTip": "CleanArchMvc.WebUi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-12T05:55:46.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductUnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwCMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T03:13:20.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",

@@ -104,3 +104,4 @@ C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Domain.Tests
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.pdb
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.genruntimeconfig.cache
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\ref\CleanArchMvc.Domain.Tests.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.sourcelink.json

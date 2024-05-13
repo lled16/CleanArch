@@ -17,3 +17,6 @@ C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\refint\CleanArchMvc.InfraIoc.dll
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.pdb
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\ref\CleanArchMvc.InfraIoc.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraIoc.runtimeconfig.json
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.sourcelink.json
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.genruntimeconfig.cache
