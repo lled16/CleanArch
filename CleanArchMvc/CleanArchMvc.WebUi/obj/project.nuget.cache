@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7G/VxvRQnP+Bj0dHdKfVpB+sjtZTrVlhAI5D5mDPXkkEZ8QwWxyy7H8GVGaCbpNqmtdodjTJyLH8HJJ+l3emHA==",
+  "dgSpecHash": "tvIQQOmbKeraEeJhqhJn7lS+od7ZHdow/pDZjm275R71Vfl+cRr2wrky0CknQ+xXwkrgECI0CZaJAZUrJw5QAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

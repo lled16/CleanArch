@@ -1,7 +1,12 @@
+using CleanArchMvc.Application.Interfaces;
+using CleanArchMvc.Application.Mappings;
+using CleanArchMvc.Application.Services;
 using CleanArchMvc.Domain.Interfaces;
 using CleanArchMvc.InfraData.Context;
 using CleanArchMvc.InfraData.Repositories;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +21,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductServices, ProductService>();
+builder.Services.AddScoped<ICategoryServices, CategoryService>();
+builder.Services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+
 
 var app = builder.Build();
 
@@ -36,6 +45,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Categories}/{action=Index}/{id?}");
 
 app.Run();

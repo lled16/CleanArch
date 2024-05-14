@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kBng0HK1NBCCI0YO1rlhu8yIdRcAzsgMCLSs73AzUMLQ9cyD92RJkHk3qgruH7wDo2iz0/Tv+P7YiyLXCwESZg==",
+  "dgSpecHash": "eTHEXBniixJXSQeTC+54fYaazhu0YCaPZWHoUYsEkTLP5Ti8w6BUBjId6ZFIwFG7SdkefsxQPk0crZ1L0wuH4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraIoc\\CleanArchMvc.InfraIoc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

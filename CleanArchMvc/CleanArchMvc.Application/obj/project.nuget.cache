@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nnRriQjRmAyP+AIJ4XHsPTNtNM2eojlT9S+pSoL9LrBGA/6RqUfdDnUYHN60Xd8f9nMhkRtPCV1KPNbhz56UUg==",
+  "dgSpecHash": "HIOwEo36Pm0dxX2HvBM1EHSYmlwiO7Jx32WUFVP3SvK6VhmnI0y4tHISrydB0BxkcBhXpHj9f/MqLp5CzgPOBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc gamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
