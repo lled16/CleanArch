@@ -16,3 +16,21 @@ C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\ob
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.InfraData.runtimeconfig.json
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.sourcelink.json
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.genruntimeconfig.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.InfraData.deps.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.InfraData.runtimeconfig.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.InfraData.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.InfraData.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.csproj.AssemblyReference.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.AssemblyInfoInputs.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.AssemblyInfo.cs
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.csproj.CoreCompileInputs.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.sourcelink.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArc.654BD43D.Up2Date
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\refint\CleanArchMvc.InfraData.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\CleanArchMvc.InfraData.genruntimeconfig.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraData\obj\Debug\net8.0\ref\CleanArchMvc.InfraData.dll

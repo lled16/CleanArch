@@ -4,11 +4,8 @@ using CleanArchMvc.Application.Services;
 using CleanArchMvc.Domain.Interfaces;
 using CleanArchMvc.InfraData.Context;
 using CleanArchMvc.InfraData.Repositories;
-using Microsoft.EntityFrameworkCore;
-using AutoMapper;
-using Microsoft.Extensions.DependencyInjection;
 using MediatR;
-using System.Reflection;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,7 +25,7 @@ builder.Services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 builder.Services.AddAutoMapper(typeof(DTOToCommandsMappingProfile));
 
 var myhandlers = AppDomain.CurrentDomain.Load("CleanArchMVC.Application");
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
+builder.Services.AddMediatR(cfg => { cfg.RegisterServicesFromAssemblies([typeof(Program).Assembly, typeof(ProductService).Assembly, typeof(IProductServices).Assembly]); });
 
 
 var app = builder.Build();
