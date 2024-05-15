@@ -14,3 +14,19 @@ C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Application\
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
 C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.sourcelink.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.deps.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.sourcelink.json
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArc.49502176.Up2Date
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
