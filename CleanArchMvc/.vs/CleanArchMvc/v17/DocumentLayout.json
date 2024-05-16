@@ -1,14 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C2B9CE-9DBC-41CE-BAD4-5BD13992CD2E}|CleanArchMvc.InfraIoc\\CleanArchMvc.InfraIoc.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc\\cleanarchmvc.infraioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C2B9CE-9DBC-41CE-BAD4-5BD13992CD2E}|CleanArchMvc.InfraIoc\\CleanArchMvc.InfraIoc.csproj|solutionrelative:cleanarchmvc.infraioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.infradata\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5598-1735-43C0-B44C-7D6347796705}|CleanArchMvc.InfraData\\CleanArchMvc.InfraData.csproj|solutionrelative:cleanarchmvc.infradata\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.application\\products\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.application\\products\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E1C0B2-2511-4D5D-8A09-4064E6456F53}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E1C0B2-2511-4D5D-8A09-4064E6456F53}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50958A1-8489-4BB5-ABDB-3368AD999CE8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,49 +73,198 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:19:01.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraIoc\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.InfraIoc\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraIoc\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanArchMvc.InfraIoc\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:14:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:12:09.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:11:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:02:56.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:03:06.287Z",
+              "WhenOpened": "2024-05-16T04:02:48.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:00:15.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\appsettings.json",
+              "RelativeToolTip": "CleanArchMvc.WebUi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T04:17:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Program.cs",
-              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Program.cs",
               "RelativeToolTip": "CleanArchMvc.WebUi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:03:02.053Z",
+              "WhenOpened": "2024-05-16T04:00:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:51:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:51:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.InfraData\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraData\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.InfraData\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:49:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:49:28.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Interfaces\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Interfaces\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:49:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:48:42.74Z",
               "EditorCaption": ""
             }
           ]
