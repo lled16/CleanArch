@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArchMvc\CleanArchMvc.WebUi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +44,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pc gamer/Documents/Dev/CleanArch/CleanArchMvc/CleanArchMvc.WebUi/Views/Product/Index.cshtml]
