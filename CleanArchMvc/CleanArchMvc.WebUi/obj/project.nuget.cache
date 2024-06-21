@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHb4g65mSJZK9CHehOR4qwwoiiyM723rmKBJx/gYjBaX9nstryys+5rLtu7ZFxhJ9avO83z5pfsnWVCZ9U0dFQ==",
+  "dgSpecHash": "V3SVhb2aHfYQizBS37aqrDb0O+8eoEvK/Me2RkGAMyk5iRYRErpVlKXCcv7wDHDBMgsnLg18Zn46/X9wmWe+Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj",
+  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

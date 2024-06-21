@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9OHIBMpNbd7nTV1LNQRQMCASWHWXHc0zSzacEvyyYR1VDTdeo9XCZfoCXokUYhAgKYJDaBCmHc/IG30obHj7w==",
+  "dgSpecHash": "wvJxho9jOj4RLuQOo4Acj36N2AfrAVCgCWq3jptEItW1p05OwpD5mwKcy6WmiGpixA0qCe3zbbV3EdbtMbaRSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraIoc\\CleanArchMvc.InfraIoc.csproj",
+  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.InfraIoc\\CleanArchMvc.InfraIoc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc gamer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

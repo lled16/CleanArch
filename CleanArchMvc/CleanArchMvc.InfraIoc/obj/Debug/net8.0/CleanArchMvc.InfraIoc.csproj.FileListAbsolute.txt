@@ -42,3 +42,25 @@ C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.
 C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.pdb
 C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.genruntimeconfig.cache
 C:\Users\JoaoSimao\Documents\joao\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\ref\CleanArchMvc.InfraIoc.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraIoc.deps.json
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraIoc.runtimeconfig.json
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraIoc.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraIoc.pdb
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraData.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\bin\Debug\net8.0\CleanArchMvc.InfraData.pdb
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.csproj.AssemblyReference.cache
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.AssemblyInfoInputs.cache
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.AssemblyInfo.cs
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.csproj.CoreCompileInputs.cache
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.sourcelink.json
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArc.797AFFCA.Up2Date
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\refint\CleanArchMvc.InfraIoc.dll
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.pdb
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\CleanArchMvc.InfraIoc.genruntimeconfig.cache
+C:\Users\pc gamer\Documents\Dev\CleanArch\CleanArch\CleanArchMvc\CleanArchMvc.InfraIoc\obj\Debug\net8.0\ref\CleanArchMvc.InfraIoc.dll

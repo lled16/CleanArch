@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|c:\\users\\pc gamer\\documents\\dev\\cleanarch\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A86A1121-DEDC-4B09-9A29-AB4C344E5075}|CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj|solutionrelative:cleanarchmvc.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Product\\Details.cshtml",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "CleanArchMvc.WebUi\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAmwGIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:16:28.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T04:16:28.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "CleanArchMvc.WebUi\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T04:16:26.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T04:16:26.724Z"
             }
           ]
         }
