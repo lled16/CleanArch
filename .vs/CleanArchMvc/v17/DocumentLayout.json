@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B49268-E591-4586-8B97-C162900A98A2}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.webui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B49268-E591-4586-8B97-C162900A98A2}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B49268-E591-4586-8B97-C162900A98A2}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.webui\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B49268-E591-4586-8B97-C162900A98A2}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\joaosimao\\documents\\joao\\cleanarch\\cleanarch\\cleanarchmvc.api\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5502-3696-4E12-802E-C8A0ED78DE0A}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +63,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:24:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:03:58.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:02:43.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:02:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:01:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:01:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\UserToken.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Models\\UserToken.cs",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\Models\\UserToken.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Models\\UserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:00:47.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchMvc.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T18:58:15.536Z",
+              "EditorCaption": ""
             }
           ]
         }
