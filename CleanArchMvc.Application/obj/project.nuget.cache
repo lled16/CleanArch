@@ -1,16 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PlHmqbtOBOIJ63/5sYP5z9H4uNpf/MVWjHFW2a2UtlKFwc43iAVhGFUijMHIYeNaeiJ1GBhuNpkn1SZcoGQXhA==",
+  "dgSpecHash": "9gWTSLQoZXllNqgqhBXff6O1QRxxvPpTVxVKH5RMNRSrfyjxT8Permpir5nU0nJEpivDj1F6NSvQeyQLrVEBhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc gamer\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

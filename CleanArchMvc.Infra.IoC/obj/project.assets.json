@@ -7100,19 +7100,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc gamer\\.nuget\\packages\\": {}
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
       "projectName": "CleanArchMvc.Infra.IoC",
-      "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
-      "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\obj\\",
+      "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+      "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7126,14 +7131,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
-              "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+            "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+              "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
             },
-            "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             },
-            "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
+            "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
             }
           }
         }
@@ -7173,20 +7178,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

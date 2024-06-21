@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5uzg3s9QX+gu3tDO9p1CTQh2e3qlbBp9dLx314+8Z2nDAbaGtswG8lQ9fwj/x6DlHWzM5jeQibgx6V7JdVgxQ==",
+  "dgSpecHash": "rW319KTLeF0D/D0dAUabXp3C0Crg87GR1nm6MhvQzmZ4JBBuXxW31qQzyTiZZOG9VTTRT5M8J+7elrh6RQiuOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\pc gamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

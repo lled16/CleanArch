@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-        "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\obj\\",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -69,20 +73,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -92,17 +82,21 @@
         }
       }
     },
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-        "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\obj\\",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,20 +137,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -166,17 +146,21 @@
         }
       }
     },
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,8 +174,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -247,20 +231,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -270,17 +240,21 @@
         }
       }
     },
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "projectName": "CleanArchMvc.Infra.IoC",
-        "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
-        "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\obj\\",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -294,14 +268,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
               },
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               },
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -341,20 +315,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -364,17 +324,21 @@
         }
       }
     },
-    "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
         "projectName": "CleanArchMvc.WebUI",
-        "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-        "packagesPath": "C:\\Users\\pc gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\obj\\",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.WebUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -388,8 +352,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\pc gamer\\Documents\\Dev\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\CleanArch\\CleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
               }
             }
           }
@@ -425,24 +389,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
